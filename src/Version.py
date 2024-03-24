@@ -21,6 +21,6 @@
 
 PLUGIN = "PowerCockpit"
 ID = "POC"
-VERSION = "3.7.2"
+VERSION = "3.8.0"
 COPYRIGHT = "2018-2024 by dream-alpha"
 LICENSE = "This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version."
