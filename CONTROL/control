@@ -1,0 +1,7 @@
+Description: PowerCockpit
+Maintainer: dream-alpha
+Package: enigma2-plugin-systemplugins-powercockpit
+Version: 4.7.2
+Architecture: all
+Conflicts: enigma2-plugin-systemplugins-safepoweroff
+Replaces: enigma2-plugin-systemplugins-safepoweroff
